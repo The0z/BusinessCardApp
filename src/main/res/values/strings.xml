@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BusinessSingleScreenApp</string>
+    <string name="business">Memory Express </string>
+    <string name="business_des">Since 1996, MemoryExpress has established a leadership position as the premier destination for computer products and services.
+        Starting from a humble beginning, we have grown into a multi-million dollar company with many retail locations across Canada. Our success is a result of all the people who walk through our doors each and every day – our customers, our staff, and our vendor partners.
+        100% Canadian owned &amp; operated, our customer base has grown exponentially from year to year through referrals and word of mouth.
+        During this time, we have also achieved premier partnership levels with key vendors such as Microsoft, Intel, and AMD.</string>
+    <string name="about">ABOUT</string>
+    <string name="address">120 58 Ave SE, Calgary, AB T2H 0N7</string>
+    <string name="store_hours">Open Monday - Friday: 9 am to 9 pm</string>
+    <string name="avg_review">4.6 out of 5 stars</string>
+</resources>
